@@ -65,6 +65,7 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Haytam El Ouarrat</h2>;
+  const twoHalf = <h3 className="big-heading">and,</h3>;
   const three = <h3 className="big-heading">I help computers see.</h3>;
   const four = (
     <>
@@ -90,7 +91,7 @@ const Hero = () => {
     </div>
   );
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, twoHalf, three, four, five];
 
   return (
     <StyledHeroSection>
