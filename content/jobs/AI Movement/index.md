@@ -1,17 +1,12 @@
 ---
-date: '2024-05-01'
-title: 'Multi-Agent Reinforcement Learning Intern'
-company: 'AI Movement'
+date: '2025-10-01'
+title: 'Doctoral Researcher'
+company: 'AIMOVEMENT'
 location: 'Rabat, Morocco'
-range: 'May - August 2024'
+range: 'October 2025 - Present'
 url: 'https://aim.um6p.ma/en/home/'
 ---
 
-- Spearheaded research on multi-agent reinforcement learning (MARL), achieving a 30% improvement in agent collaboration
-  efficiency in complex environments.
-- Engineered Multi-agent Transformers and recurrent neural network-based algorithms, enabling adaptive strategy learning
-  and enhancing agent decision-making in dynamic scenarios.
-- Leveraged intrinsic reward mechanisms to optimize learning efficiency, resulting in faster convergence to optimal
-  policies even under sparse reward conditions.
-- Enhanced model capabilities in autonomous decision-making through advanced sequential modeling, leading to more robust
-  behavior under limited feedback situations.
+- Design and implementation of image-based and direct visual servoing controllers using Feature-Based VS formulations, focusing on stability and convergence properties.
+- Integration of Neural Radiance Fields and 3D Gaussian Splatting for visual localization, enabling high-precision navigation from sparse images without explicit depth sensors.
+- Developed end-to-end Python pipelines for camera models and rendering to evaluate robustness in novel-view tracking and visual servoing.

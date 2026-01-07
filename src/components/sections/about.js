@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Pytorch ', 'Tensorflow', 'Optuna', 'JAX', 'Transfer Learning', 'Gymnasium'];
+  const skills = ['Pytorch ', 'Tensorflow', 'Optuna', 'JAX', 'Keras', 'Open3D'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -140,20 +140,16 @@ const About = () => {
               experimenting with simple machine learning models. Who knew that creating a simple
               sudoku solver would teach me so much about maths, statistics, problem-solving, and
               foundational coding? That early curiosity has now grown into a passion for leveraging
-              AI to solve real-world problems!
+              neuron layers to solve real-world problems!
             </p>
 
             <p>
-              I am actively seeking an End-of-Studies internship to deepen my expertise in machine
-              learning and deep learning, preparing for a successful career in AI-driven
-              technologies. During this internship, I aim to enhance my skills in areas such as
-              neural network architectures, model training and optimization, and data preprocessing.
-              I am particularly interested in gaining hands-on experience with state-of-the-art
-              frameworks like TensorFlow and PyTorch, exploring advanced techniques such as transfer
-              learning, reinforcement learning, and generative models, and applying them to solve
-              real-world problems. Additionally, I seek to develop a deeper understanding of model
-              evaluation, interpretability, and deployment in production environments, while staying
-              updated on the latest advancements in AI research.
+              Transitioning from a research background, I am seeking a full-time role in Computer
+              Vision to apply my deep learning expertise to industry challenges. While my PhD honed
+              my analytical depth, I am now driven to build scalable, real-world solutions and
+              collaborate within a dynamic team. I aim to leverage my skills in neural architectures
+              and model deployment to deliver faster, tangible impact in a forward-thinking IT
+              company.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

@@ -69,9 +69,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm an AI student engineer specializing in building cutting edge Computer Vision models.
-        Currently, I'm a student at the university of Toulouse III, majoring in robotics and
-        Artificial Intelligence.
+        I'm a Doctoral Researcher specializing in building innovative computer vision models and
+        robotic applications. Currently, I'm a PhD student at the Mohammed VI Polytechnic
+        University, majoring in the intersection between computer vision and robotics.
       </p>
     </>
   );
