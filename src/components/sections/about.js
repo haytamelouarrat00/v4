@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Pytorch ', 'Tensorflow', 'Optuna', 'JAX', 'Keras', 'Open3D'];
+  const skills = ['Pytorch ', 'Tensorflow', 'Optuna', 'Scikit-learn', 'Polars', 'Open3D'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -144,9 +144,9 @@ const About = () => {
             </p>
 
             <p>
-              Transitioning from a research background, I am seeking a full-time role in Computer
-              Vision to apply my deep learning expertise to industry challenges. While my PhD honed
-              my analytical depth, I am now driven to build scalable, real-world solutions and
+              Transitioning from a research background, I am seeking a full-time role in Machine
+              Learning to apply my deep learning expertise to industry challenges. While my PhD
+              honed my analytical depth, I am now driven to build scalable, real-world solutions and
               collaborate within a dynamic team. I aim to leverage my skills in neural architectures
               and model deployment to deliver faster, tangible impact in a forward-thinking IT
               company.

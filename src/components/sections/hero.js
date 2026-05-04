@@ -70,9 +70,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a Doctoral Researcher specializing in building innovative computer vision models and
-        robotic applications. Currently, I'm a PhD student at the Mohammed VI Polytechnic
-        University, majoring in the intersection between computer vision and robotics.
+        I'm a Research Assistant specializing in building Perception solutions, and robotic
+        applications. Currently, I'm a PhD student at the Mohammed VI Polytechnic University,
+        majoring in the intersection between computer vision and robotics.
       </p>
     </>
   );
