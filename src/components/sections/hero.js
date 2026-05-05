@@ -70,9 +70,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a Research Assistant specializing in building Perception solutions, and robotic
-        applications. Currently, I'm a research assistant at the Mohammed VI Polytechnic University,
-        working in the intersection between computer vision and robotics.
+        I'm a Machine Learning and Computer Vision Engineer specializing in building scalable
+        perception solutions and intelligent systems. I leverage deep learning and advanced computer
+        vision to solve complex, real-world problems.
       </p>
     </>
   );

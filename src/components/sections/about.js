@@ -144,12 +144,12 @@ const About = () => {
             </p>
 
             <p>
-              Transitioning from a research background, I am seeking a full-time role in Machine
-              Learning to apply my deep learning expertise to industry challenges. While my research
-              roles honed my analytical depth, I am now driven to build scalable, real-world
-              solutions and collaborate within a dynamic team. I aim to leverage my skills in neural
-              architectures and model deployment to deliver faster, tangible impact in a
-              forward-thinking IT company.
+              With a strong foundation in Computer Vision R&D, I am seeking a full-time role in
+              Machine Learning to apply my deep learning expertise to industry challenges. While my
+              past R&D roles honed my analytical depth, I am now driven to build scalable,
+              production-ready solutions and collaborate within a dynamic engineering team. I aim to
+              leverage my skills in neural architectures and model deployment to deliver fast,
+              tangible impact in a forward-thinking tech company.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
