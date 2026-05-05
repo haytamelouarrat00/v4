@@ -1,6 +1,6 @@
 ---
 date: '2025-10-01'
-title: 'Doctoral Researcher'
+title: 'Research Assistant'
 company: 'AIMOVEMENT'
 location: 'Rabat, Morocco'
 range: 'October 2025 - Present'
