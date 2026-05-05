@@ -145,11 +145,11 @@ const About = () => {
 
             <p>
               Transitioning from a research background, I am seeking a full-time role in Machine
-              Learning to apply my deep learning expertise to industry challenges. While my PhD
-              honed my analytical depth, I am now driven to build scalable, real-world solutions and
-              collaborate within a dynamic team. I aim to leverage my skills in neural architectures
-              and model deployment to deliver faster, tangible impact in a forward-thinking IT
-              company.
+              Learning to apply my deep learning expertise to industry challenges. While my research
+              roles honed my analytical depth, I am now driven to build scalable, real-world
+              solutions and collaborate within a dynamic team. I aim to leverage my skills in neural
+              architectures and model deployment to deliver faster, tangible impact in a
+              forward-thinking IT company.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

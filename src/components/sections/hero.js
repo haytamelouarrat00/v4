@@ -71,8 +71,8 @@ const Hero = () => {
     <>
       <p>
         I'm a Research Assistant specializing in building Perception solutions, and robotic
-        applications. Currently, I'm a PhD student at the Mohammed VI Polytechnic University,
-        majoring in the intersection between computer vision and robotics.
+        applications. Currently, I'm a research assistant at the Mohammed VI Polytechnic University,
+        working in the intersection between computer vision and robotics.
       </p>
     </>
   );
